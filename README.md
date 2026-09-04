@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <sub>Privacy & Operational Security (OPSEC) Mindset | Worldwide Remote Research<BR>London 🇬🇧</sub>
+  <sub>Privacy & Operational Security (OPSEC) Mindset | Worldwide Remote Research<BR>England 🇬🇧</sub>
 </div>
