@@ -27,10 +27,11 @@
 
 ### Highlighted Projects
 
-* **[GeoIP](https://github.com/drJhonatan00/GeoIP)** — *Client-side Geospatial & Telecommunications Intelligence Dashboard.*
 * **[Cooler Speed Change & Management](https://github.com/drJhonatan00/Cooler_Speed_Change_and_Management)** — *Ultra-low overhead C#/.NET real-time PWM fan control and system monitor.*
 * **[3DS-EB](https://github.com/drJhonatan00/3DS-EB)** — *High-performance C# ground-up re-engineering for 3DS ROM extraction and rebuilding.*
 * **[Game Translation Pipeline](https://github.com/drJhonatan00/Game_Translation_Pipeline)** — *Offline multi-language neural translation framework leveraging CTranslate2 INT8 quantization.*
+* * **[PKNM-ED](https://github.com/drJhonatan00/PKNM-ED)** — *High-performance C# ground-up re-engineering for 3DS ROMs creation and development.*
+* **[GeoIP](https://github.com/drJhonatan00/GeoIP)** — *Client-side Geospatial & Telecommunications Intelligence Dashboard.*
 
 ---
 
