@@ -5,8 +5,9 @@
   <p>
     <a href="https://github.com/drJhonatan00"><img src="https://img.shields.io/github/stars/drJhonatan00?style=for-the-badge&color=8B5CF6&labelColor=0F172A" alt="Total Stars"></a>
     <a href="https://github.com/drJhonatan00"><img src="https://img.shields.io/github/followers/drJhonatan00?style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="Followers"></a>
-  </p>
-<p><sub><b>GitHub Developer Program Member</b></sub></p><br>
+    <br>
+ <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-2ea44f?style=flat-square&logo=github" alt="GitHub Developer Program Member">
+  
   <p><i>"Engineered for maximum performance, minimal overhead, and clean architectural execution."</i></p>
 </div>
 
