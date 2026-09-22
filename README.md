@@ -26,6 +26,10 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,java,php,html,css,javascript,react,nodejs,threejs,mysql,sqlite,dotnet,aws,docker,git,vscode,visualstudio,androidstudio,windows,linux,ubuntu,kali,github,arduino,azure,bash,blender,bootstrap,figma,firebase,flutter,devto,gmail,ai,laravel,md,ps,powershell,pr,sublime,sketchup,unity,unreal,xd)](https://skillicons.dev)
+
+---
+
 ### Highlighted Projects
 
 * **[Cooler Speed Change & Management](https://github.com/drJhonatan00/Cooler_Speed_Change_and_Management)** — *Ultra-low overhead C#/.NET real-time PWM fan control and system monitor.*
