@@ -26,7 +26,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,java,php,html,css,javascript,react,nodejs,threejs,mysql,sqlite,dotnet,aws,docker,git,vscode,visualstudio,androidstudio,windows,linux,ubuntu,kali,github,arduino,azure,bash,blender,bootstrap,figma,firebase,flutter,devto,gmail,ai,laravel,md,ps,powershell,pr,sublime,sketchup,unity,unreal,xd,autocad&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,java,php,html,css,javascript,react,nodejs,threejs,mysql,sqlite,dotnet,aws,docker,git,vscode,visualstudio,androidstudio,windows,linux,ubuntu,kali,github,arduino,azure,bash,blender,bootstrap,figma,firebase,flutter,devto,gmail,ai,laravel,md,ps,powershell,pr,sublime,sketchup,unity,unreal,xd,autocad&perline=12)](https://skillicons.dev)
 
 ---
 
