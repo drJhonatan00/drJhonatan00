@@ -37,7 +37,7 @@
 * **[Game Translation Pipeline](https://github.com/drJhonatan00/Game_Translation_Pipeline)** — *Offline multi-language neural translation framework leveraging CTranslate2 INT8 quantization.*
 * **[PKNM-ED](https://github.com/drJhonatan00/PKMN-ED)** — *High-performance C# ground-up re-engineering for 3DS ROMs creation and development.*
 * **[GeoIP](https://github.com/drJhonatan00/GeoIP)** — *Client-side Geospatial & Telecommunications Intelligence Dashboard.*
-* **[Pulse](https://github.com/drJhonatan00/Pulse)** — Progressive Web App designed to track, visualize, and analyze release downloads and repository metrics across GitHub.
+* **[BackAuto](https://github.com/drJhonatan00/BackAuto)** — Progressive Web App designed to track, visualize, and analyze release downloads and repository metrics across GitHub.
 
 ---
 
