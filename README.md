@@ -26,7 +26,11 @@
 
 ---
 
+<p align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,java,php,html,css,javascript,react,nodejs,threejs,mysql,sqlite,dotnet,aws,docker,git,vscode,visualstudio,androidstudio,windows,linux,ubuntu,kali,github,arduino,azure,bash,blender,bootstrap,figma,firebase,flutter,devto,gmail,ai,ps,pr,xd,laravel,md,powershell,sublime,sketchup,unity,unreal,autocad&perline=16)](https://skillicons.dev)
+
+</p>
 
 ---
 
