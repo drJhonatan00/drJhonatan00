@@ -16,13 +16,19 @@
 ### Tech Stack & Core Competencies
 
 **Languages**
-`C` • `C++` • `C# (.NET)` • `Python` • `Java` • `PHP` • `JavaScript` • `HTML5 / CSS3`
+`C` • `C++` • `C# (.NET)` • `Rust` • `Python` • `Java` • `PHP` • `JavaScript` • `Ruby` • `HTML5 / CSS3`
 
 **Systems & Architecture**
 `Vulkan API` • `ARM64 Optimization` • `Low-Level Debugging` • `Reverse Engineering` • `PWM & Hardware Management`
 
 **Frameworks & Tools**
-`CTranslate2 / Neural Models` • `Android NDK` • `Git` • `Linux / Kali` • `MySQL / Database Architecture`
+`Neural Models` • `Android NDK` • `Git` • `MySQL / Database Architecture` • `SQL Server` • `Node.js` • `Tree.js` • `React`
+
+**Design & Front-End**
+`Corel Draw` • `Adobe Photoshop` • `Adobe Ilustrator` • `Adobe XD` • `Adobe Premiere` • `Adobe Dreamweaver` • `CapCut` • `Figma`
+
+**Others**
+`XAMPP` • `Windows` • `Android` • `Kali Linux` • `Linux Ubuntu` • `Microsoft Word` • `Microsoft PowerPoint` • `Microsoft Excel` • `OWASP-ZAP` • `ASP` • `Wireshark` • `Hardware` • `PowerShell` • `Bash` • `Network Structure` • `Docker` • `AWS` • `Arduino` • `MicroBit` • `Unity Engine` • `Unreal Engine` • `Azure` • `Flutter` • `IoT` • `Blockchain`
 
 ---
 
