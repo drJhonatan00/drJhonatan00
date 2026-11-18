@@ -6,6 +6,7 @@
     <a href="https://github.com/drJhonatan00"><img src="https://img.shields.io/github/stars/drJhonatan00?style=for-the-badge&color=8B5CF6&labelColor=0F172A" alt="Total Stars"></a>
     <a href="https://github.com/drJhonatan00"><img src="https://img.shields.io/github/followers/drJhonatan00?style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="Followers"></a>
     <br>
+    
  <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-2ea44f?style=flat-square&logo=github" alt="GitHub Developer Program Member">
     
   [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/drJhonatan00/badge.svg)](https://hub.xerj.org/contributors/drJhonatan00)
